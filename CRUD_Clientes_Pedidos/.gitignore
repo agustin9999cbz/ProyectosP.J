@@ -1,0 +1,5 @@
+__pycache__/ 
+*.pyc 
+negocio.db 
+.DS_Store 
+Thumbs.db 

@@ -1,0 +1,6 @@
+__pycache__/ 
+*.pyc 
+inventario.json 
+inventario_exportado.json 
+.DS_Store 
+Thumbs.db 
